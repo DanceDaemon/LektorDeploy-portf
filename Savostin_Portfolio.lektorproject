@@ -1,0 +1,7 @@
+[project]
+name = Savostin_Portfolio
+url_style = absolute
+
+[servers.ghdeploy]
+name = Dev
+target = ghoages+https://DanceDaemon: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@DanceDaemon/LektorDeploy-portf/
